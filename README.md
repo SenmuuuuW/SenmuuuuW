@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Senmuuuu 👋
 
-<!--
-**SenmuuuuW/SenmuuuuW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17 y/o builder in the US learning AI, law, and product by building small tools.
 
-Here are some ideas to get you started:
+Right now, I'm exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI coding with Codex / vibe coding
+- AI tools for law, research, and productivity
+- Photography and creative workflows
+- Building in public from zero
+
+## Current focus
+
+I'm starting with small projects instead of big ideas.
+
+My goal is simple:
+
+build → ship → learn → document.
+
+## Projects
+
+Coming soon:
+
+- Personal profile site
+- AI tools collection
+- AI learning log generator
+- Simple research / information collection tool
+
+## Links
+
+- X: @MiWaAilearning
